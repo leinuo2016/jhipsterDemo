@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.leinuo.demo",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "6.3.1",
+    "applicationType": "gateway",
+    "baseName": "jhipsterDemo",
+    "packageName": "com.leinuo.demo",
+    "packageFolder": "com/leinuo/demo",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MjFhZTczYzI5NTI2ZTc3OGNiOGJjY2E0NWVkZTkyNzc1MWFlNmI3MjVkZDVhYTc5YTU2ZjM4YjAyMzM0ZmE3N2VhMTNiZDdmNzk3NjhkMGRiY2E0MTdmNmI3ZmJhODFmMmE0ODBiYWQ5ZGNjNTE1NDJhNThmNzM4N2RkZDAzODc=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": ["zh-cn"],
+    "blueprints": []
+  }
+}
